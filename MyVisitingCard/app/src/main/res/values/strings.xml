@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Visiting Card</string>
+    <string name="my_name">Md. Marufuzzaman Nibir</string>
+    <string name="edu">   B.Sc(CSE) NSU, M.Sc(CS) JU</string>
+    <string name="phone">   +8801722414549 </string>
+    <string name="fb">  facebook.com/mz.nibir </string>
+    <string name="gmail">  mz.nibir@gmail.com </string>
+    <string name="location">  #House-390/A, #Road-11, #Block-C, Bashundhara R/A, Dhaka-1229 </string>
+</resources>
