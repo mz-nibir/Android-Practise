@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My TextViewDemo</string>
+
+    <string name="my_name">Marufuzzaman Nibir</string>
+    <string name="age_text">26 Years old</string>
+    <string name="Large_text"></string>
+</resources>
