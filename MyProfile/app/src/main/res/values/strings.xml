@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="profile">
+        Name:   Md. Marufuzzaman Nibir \n
+        Email:  mz.nibir@gmail.com \n
+        Phone:  +8801722414549
+    </string>
+</resources>
