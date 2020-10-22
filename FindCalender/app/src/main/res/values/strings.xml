@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FindCalender</string>
+    <string name="find_calender">Find Now</string>
+    <string name="catagory">Nothing is Selected.Please Select One then click the FIND NOW Button.</string>
+
+    <string-array name="cal_category">
+        <item>Days Name</item>
+        <item>Months Name</item>
+        <item>Seasons Name</item>
+
+    </string-array>
+
+
+</resources>
