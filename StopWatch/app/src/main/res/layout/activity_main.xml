@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="15dp"
+    android:background="#69917E"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="88sp"
+        android:textStyle="bold"
+        android:id="@+id/timerTextView_id"
+        android:layout_marginBottom="50dp"
+        android:textColor="#781B1B"
+        />
+
+
+
+    <Button
+        android:id="@+id/startBtn_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:textColor="#fff"
+        android:background="@drawable/button_back"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/stopBtn_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="stop"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:textColor="#fff"
+        android:background="@drawable/button_back"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/resetBtn_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="reset"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:textColor="#fff"
+        android:background="@drawable/button_back"/>
+
+
+
+</LinearLayout>
